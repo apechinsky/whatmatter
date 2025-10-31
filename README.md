@@ -1,7 +1,7 @@
 # whatmatter
 
 whatmatter - a tool for identifying the most important topics.
-In other wards, what matters to you the most.
+In other words, what matters to you the most.
 
 The idea is to increment the score of particular topic each time you see it.
 You do your everyday work and realize that something is important.
